@@ -1,6 +1,7 @@
 {
   "name": "epson-connect-client",
   "main": "src/index.ts",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "lint": "eslint src/**/*.{ts,tsx}",
